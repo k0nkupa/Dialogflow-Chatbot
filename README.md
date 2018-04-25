@@ -8,7 +8,7 @@ Follow these steps below
 1. Go to [DIALOGFLOW.COM](https://www.dialogflow.com) and get a key!
 2. Clone the Repo,
   `
-  git clone https://github.com/sushantshekhar20/bot-api.ai.git
+  git clone https://github.com/k0nkupa/Dialogflow-Chatbot.git
   `
 3. `cd bot_api.ai`
 4. Place your Key in config/api.js

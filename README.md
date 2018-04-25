@@ -3,14 +3,9 @@
 
 ##### How to Use?
 
-You can simply chose to
-Build it yourself from scratch using this [Tutorial](https://chatbotslife.com/custom-api-ai-chatbot-using-botui-58d673155c7d).
-
-OR...
-
 Follow these steps below
 
-1. Go to [API.AI](https://www.api.ai) and get a key!
+1. Go to [DIALOGFLOW.COM](https://www.dialogflow.com) and get a key!
 2. Clone the Repo,
   `
   git clone https://github.com/sushantshekhar20/bot-api.ai.git
@@ -24,5 +19,5 @@ Follow these steps below
   Edit the Chat Flow from public/javascripts/convo.js
 
 UI Design by [BotUI](https://github.com/moinism/botui).
-NLP Used [API.AI](https://www.api.ai).
+NLP Used [DIALOGFLOW.COM](https://www.dialogflow.com).
 # Dialogflow-Chatbot

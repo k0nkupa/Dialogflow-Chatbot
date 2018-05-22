@@ -1,6 +1,6 @@
 var botui = new BotUI('api-bot');
 
-var socket = io.connect('http://localhost:8010');
+var socket = io.connect(window.location.hostname);
 
 socket.removeAllListeners();
 botui.message.add({
